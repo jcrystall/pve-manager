@@ -292,6 +292,7 @@ JSSRC= 							\
 	sdn/IpamView.js					\
 	sdn/ipams/Base.js				\
 	sdn/ipams/NetboxEdit.js				\
+	sdn/ipams/NautobotEdit.js				\
 	sdn/ipams/PVEIpamEdit.js			\
 	sdn/ipams/PhpIpamEdit.js			\
 	sdn/DnsView.js					\

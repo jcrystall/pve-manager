@@ -931,6 +931,11 @@ Ext.define('PVE.Utils', {
 	    ipanel: 'PhpIpamInputPanel',
 	    faIcon: 'th',
 	},
+	nautobot: {
+	    name: 'Nautobot',
+	    ipanel: 'NautobotInputPanel',
+	    faIcon: 'th',
+	},
     },
 
     sdndnsSchema: {
